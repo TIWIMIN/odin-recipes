@@ -1,3 +1,3 @@
 # odin-recipes
 
-This project will be an oppurtunity to exercise creating html pages. I will be creating a rudamentary recipe in order to do so. 
+This project will be an exercise in creating html pages. I will be following serious eats' chocolate chip cookie recipe to do so (https://www.seriouseats.com/the-food-lab-best-chocolate-chip-cookie-recipe). 
