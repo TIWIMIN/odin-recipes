@@ -6,3 +6,8 @@ img {
     width: 500px;
     height: auto;
 }
+
+.recipes{
+    border: solid black;
+    margin-right: 50%;
+}
